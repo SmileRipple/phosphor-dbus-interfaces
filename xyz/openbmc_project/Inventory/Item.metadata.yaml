@@ -1,0 +1,10 @@
+- name: NotPresent
+  meta:
+    - str: "CALLOUT_INVENTORY_PATH=%s"
+      type: string
+
+- name: Nonfunctional
+  meta:
+    - str: "CALLOUT_INVENTORY_PATH=%s"
+      type: string
+
